@@ -1,0 +1,16 @@
+.container {
+  width: 375px;
+  margin: 0 auto;
+}
+
+header {
+  background-color: turquoise;
+  height: 120px;
+}
+
+
+
+h1 {
+  font-size: 20px;
+  padding-left: 20px;
+}

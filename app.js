@@ -25,7 +25,7 @@ function renderTheUI(){
   toDos.forEach(function(toDo){
     const newLi = document.createElement('li');
 
-    const checkbox = document.createElement('li');
+    const checkbox = document.createElement('input');
     checkbox.type = "checkbox";
     checkbox.checked = toDo.complete;
 
