@@ -1,6 +1,7 @@
 .container {
   width: 375px;
   margin: 0 auto;
+
 }
 
 header {
@@ -11,6 +12,28 @@ header {
 
 
 h1 {
+  font-size: 30px;
+  padding-left: 80px;
+  color: white;
+
+}
+
+ #addToDoForm {
+   padding-top: 30px;
+   color: :lightgrey;
+ }
+
+#newToDoText{
+font-size: 20px;
+
+}
+#newToDoText {
   font-size: 20px;
-  padding-left: 20px;
+  color: darkgrey
+
+}
+
+#submit {
+  font-size: 20px;
+
 }
